@@ -21,7 +21,7 @@ This github repository will walk you through setting up your Git and GitHub acco
 ---
 
 ## View this README
-First step complete! Welcome and good luck over the next steps! Philip Gongon!
+First step complete! Welcome and good luck over the next steps! Philip Gongon! You're doing great!
 If you run into issues please visit the Hub's discussion forums or submit a ticket for assistance.
 
 ---
